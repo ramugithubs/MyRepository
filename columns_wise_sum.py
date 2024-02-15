@@ -19,4 +19,5 @@ for row in matrix:
 # Print the column-wise sums
 print("Column-wise Sums without Functions:", column_sums)
 
-print(columns)
+# output will be like
+ [11 15 17]
