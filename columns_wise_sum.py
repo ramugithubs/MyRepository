@@ -18,3 +18,5 @@ for row in matrix:
 
 # Print the column-wise sums
 print("Column-wise Sums without Functions:", column_sums)
+
+print(columns)
