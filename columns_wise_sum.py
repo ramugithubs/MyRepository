@@ -21,3 +21,5 @@ print("Column-wise Sums without Functions:", column_sums)
 
 # output will be like
  [11 15 17]
+
+# this the way of process
