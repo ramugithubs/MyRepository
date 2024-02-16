@@ -24,4 +24,4 @@ print("Column-wise Sums without Functions:", column_sums)
 
 # this the way of process
 
-tha is our code
+that is the code we have
